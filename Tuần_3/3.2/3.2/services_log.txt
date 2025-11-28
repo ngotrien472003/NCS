@@ -1,0 +1,1280 @@
+ServiceName : ACCSvc
+DisplayName : ACC Service
+State       : RUNNING
+
+ServiceName : ADPSvc
+DisplayName : ADPSvc
+State       : STOPPED
+
+ServiceName : ALG
+DisplayName : Application Layer Gateway Service
+State       : STOPPED
+
+ServiceName : AppIDSvc
+DisplayName : Application Identity
+State       : STOPPED
+
+ServiceName : Appinfo
+DisplayName : Application Information
+State       : RUNNING
+
+ServiceName : Apple Mobile Device Service
+DisplayName : Apple Mobile Device Service
+State       : RUNNING
+
+ServiceName : AppReadiness
+DisplayName : App Readiness
+State       : STOPPED
+
+ServiceName : AppXSvc
+DisplayName : AppX Deployment Service (AppXSVC)
+State       : RUNNING
+
+ServiceName : ApxSvc
+DisplayName : Windows Virtual Audio Device Proxy Service
+State       : STOPPED
+
+ServiceName : AudioEndpointBuilder
+DisplayName : Windows Audio Endpoint Builder
+State       : RUNNING
+
+ServiceName : Audiosrv
+DisplayName : Windows Audio
+State       : RUNNING
+
+ServiceName : autotimesvc
+DisplayName : Cellular Time
+State       : STOPPED
+
+ServiceName : AxInstSV
+DisplayName : ActiveX Installer (AxInstSV)
+State       : STOPPED
+
+ServiceName : BDESVC
+DisplayName : BitLocker Drive Encryption Service
+State       : STOPPED
+
+ServiceName : BFE
+DisplayName : Base Filtering Engine
+State       : RUNNING
+
+ServiceName : BITS
+DisplayName : Background Intelligent Transfer Service
+State       : STOPPED
+
+ServiceName : Bonjour Service
+DisplayName : Bonjour Service
+State       : RUNNING
+
+ServiceName : BrokerInfrastructure
+DisplayName : Background Tasks Infrastructure Service
+State       : RUNNING
+
+ServiceName : BTAGService
+DisplayName : Bluetooth Audio Gateway Service
+State       : STOPPED
+
+ServiceName : BthAvctpSvc
+DisplayName : AVCTP service
+State       : STOPPED
+
+ServiceName : bthserv
+DisplayName : Bluetooth Support Service
+State       : STOPPED
+
+ServiceName : camsvc
+DisplayName : Capability Access Manager Service
+State       : RUNNING
+
+ServiceName : CDPSvc
+DisplayName : Connected Devices Platform Service
+State       : RUNNING
+
+ServiceName : CertPropSvc
+DisplayName : Certificate Propagation
+State       : STOPPED
+
+ServiceName : ClickToRunSvc
+DisplayName : Dịch vụ Microsoft Office Click-to-Run
+State       : RUNNING
+
+ServiceName : ClipSVC
+DisplayName : Client License Service (ClipSVC)
+State       : STOPPED
+
+ServiceName : com.docker.service
+DisplayName : Docker Desktop Service
+State       : STOPPED
+
+ServiceName : COMSysApp
+DisplayName : COM+ System Application
+State       : STOPPED
+
+ServiceName : CoreMessagingRegistrar
+DisplayName : CoreMessaging
+State       : RUNNING
+
+ServiceName : cplspcon
+DisplayName : Intel(R) Content Protection HDCP Service
+State       : RUNNING
+
+ServiceName : CryptSvc
+DisplayName : Cryptographic Services
+State       : RUNNING
+
+ServiceName : DcomLaunch
+DisplayName : DCOM Server Process Launcher
+State       : RUNNING
+
+ServiceName : dcsvc
+DisplayName : Declared Configuration(DC) service
+State       : STOPPED
+
+ServiceName : defragsvc
+DisplayName : Optimize drives
+State       : STOPPED
+
+ServiceName : DeviceAssociationService
+DisplayName : Device Association Service
+State       : RUNNING
+
+ServiceName : DeviceInstall
+DisplayName : Device Install Service
+State       : RUNNING
+
+ServiceName : DevQueryBroker
+DisplayName : DevQuery Background Discovery Broker
+State       : RUNNING
+
+ServiceName : Dhcp
+DisplayName : DHCP Client
+State       : RUNNING
+
+ServiceName : diagsvc
+DisplayName : Diagnostic Execution Service
+State       : STOPPED
+
+ServiceName : DiagTrack
+DisplayName : Connected User Experiences and Telemetry
+State       : RUNNING
+
+ServiceName : DispBrokerDesktopSvc
+DisplayName : Display Policy Service
+State       : RUNNING
+
+ServiceName : DisplayEnhancementService
+DisplayName : Display Enhancement Service
+State       : RUNNING
+
+ServiceName : DmEnrollmentSvc
+DisplayName : Device Management Enrollment Service
+State       : STOPPED
+
+ServiceName : dmwappushservice
+DisplayName : Device Management Wireless Application Protocol (WAP) Push message Routing Service
+State       : STOPPED
+
+ServiceName : Dnscache
+DisplayName : DNS Client
+State       : RUNNING
+
+ServiceName : DoSvc
+DisplayName : Delivery Optimization
+State       : RUNNING
+
+ServiceName : dot3svc
+DisplayName : Wired AutoConfig
+State       : STOPPED
+
+ServiceName : DPS
+DisplayName : Diagnostic Policy Service
+State       : RUNNING
+
+ServiceName : DsmSvc
+DisplayName : Device Setup Manager
+State       : STOPPED
+
+ServiceName : DsSvc
+DisplayName : Data Sharing Service
+State       : STOPPED
+
+ServiceName : DtsApo4Service
+DisplayName : DtsApo4Service
+State       : RUNNING
+
+ServiceName : DusmSvc
+DisplayName : Data Usage
+State       : RUNNING
+
+ServiceName : EapHost
+DisplayName : Extensible Authentication Protocol
+State       : STOPPED
+
+ServiceName : edgeupdate
+DisplayName : Microsoft Edge Update Service (edgeupdate)
+State       : STOPPED
+
+ServiceName : edgeupdatem
+DisplayName : Microsoft Edge Update Service (edgeupdatem)
+State       : STOPPED
+
+ServiceName : EFS
+DisplayName : Encrypting File System (EFS)
+State       : STOPPED
+
+ServiceName : embeddedmode
+DisplayName : Embedded Mode
+State       : STOPPED
+
+ServiceName : EntAppSvc
+DisplayName : Enterprise App Management Service
+State       : STOPPED
+
+ServiceName : esifsvc
+DisplayName : Intel(R) Dynamic Tuning service
+State       : RUNNING
+
+ServiceName : EventLog
+DisplayName : Windows Event Log
+State       : RUNNING
+
+ServiceName : EventSystem
+DisplayName : COM+ Event System
+State       : RUNNING
+
+ServiceName : Fax
+DisplayName : Fax
+State       : STOPPED
+
+ServiceName : fdPHost
+DisplayName : Function Discovery Provider Host
+State       : STOPPED
+
+ServiceName : FDResPub
+DisplayName : Function Discovery Resource Publication
+State       : STOPPED
+
+ServiceName : fhsvc
+DisplayName : File History Service
+State       : STOPPED
+
+ServiceName : FileSyncHelper
+DisplayName : FileSyncHelper
+State       : STOPPED
+
+ServiceName : FontCache
+DisplayName : Windows Font Cache Service
+State       : RUNNING
+
+ServiceName : FontCache3.0.0.0
+DisplayName : Windows Presentation Foundation Font Cache 3.0.0.0
+State       : RUNNING
+
+ServiceName : FoxitReaderUpdateService
+DisplayName : Foxit PDF Reader Update Service
+State       : RUNNING
+
+ServiceName : FrameServer
+DisplayName : Windows Camera Frame Server
+State       : STOPPED
+
+ServiceName : FrameServerMonitor
+DisplayName : Windows Camera Frame Server Monitor
+State       : STOPPED
+
+ServiceName : FvSvc
+DisplayName : NVIDIA FrameView SDK service
+State       : STOPPED
+
+ServiceName : GameInputRedistService
+DisplayName : GameInput Redist Service
+State       : STOPPED
+
+ServiceName : GameInputSvc
+DisplayName : GameInput Service
+State       : STOPPED
+
+ServiceName : GamingServices
+DisplayName : Gaming Services
+State       : RUNNING
+
+ServiceName : GamingServicesNet
+DisplayName : Gaming Services
+State       : RUNNING
+
+ServiceName : GoogleChromeElevationService
+DisplayName : Google Chrome Elevation Service (GoogleChromeElevationService)
+State       : STOPPED
+
+ServiceName : GoogleUpdaterInternalService143.0.7482.0
+DisplayName : Google Updater Internal Service (GoogleUpdaterInternalService143.0.7482.0)
+State       : STOPPED
+
+ServiceName : GoogleUpdaterService143.0.7482.0
+DisplayName : Google Updater Service (GoogleUpdaterService143.0.7482.0)
+State       : STOPPED
+
+ServiceName : GoTrust ID Plugin
+DisplayName : GoTrust ID Plugin
+State       : RUNNING
+
+ServiceName : GoTrustID Service
+DisplayName : GoTrustID Service
+State       : RUNNING
+
+ServiceName : gpsvc
+DisplayName : Group Policy Client
+State       : STOPPED
+
+ServiceName : GraphicsPerfSvc
+DisplayName : GraphicsPerfSvc
+State       : STOPPED
+
+ServiceName : hidserv
+DisplayName : Human Interface Device Service
+State       : STOPPED
+
+ServiceName : hns
+DisplayName : Host Network Service
+State       : RUNNING
+
+ServiceName : hpatchmon
+DisplayName : Hotpatch Monitoring Service
+State       : STOPPED
+
+ServiceName : HvHost
+DisplayName : HV Host Service
+State       : RUNNING
+
+ServiceName : iaStorAfsService
+DisplayName : Intel(R) Optane(TM) Memory Service
+State       : STOPPED
+
+ServiceName : icssvc
+DisplayName : Windows Mobile Hotspot Service
+State       : STOPPED
+
+ServiceName : igccservice
+DisplayName : Intel(R) Graphics Command Center Service
+State       : RUNNING
+
+ServiceName : igfxCUIService2.0.0.0
+DisplayName : Intel(R) HD Graphics Control Panel Service
+State       : RUNNING
+
+ServiceName : IKEEXT
+DisplayName : IKE and AuthIP IPsec Keying Modules
+State       : RUNNING
+
+ServiceName : InstallService
+DisplayName : Microsoft Store Install Service
+State       : RUNNING
+
+ServiceName : Intel(R) TPM Provisioning Service
+DisplayName : Intel(R) TPM Provisioning Service
+State       : STOPPED
+
+ServiceName : IntelAudioService
+DisplayName : Intel(R) Audio Service
+State       : RUNNING
+
+ServiceName : InventorySvc
+DisplayName : Inventory and Compatibility Appraisal service
+State       : RUNNING
+
+ServiceName : iphlpsvc
+DisplayName : IP Helper
+State       : RUNNING
+
+ServiceName : IpxlatCfgSvc
+DisplayName : IP Translation Configuration Service
+State       : STOPPED
+
+ServiceName : jhi_service
+DisplayName : Intel(R) Dynamic Application Loader Host Interface Service
+State       : RUNNING
+
+ServiceName : KAPSService
+DisplayName : Killer Smart AP Selection Service
+State       : RUNNING
+
+ServiceName : KeyIso
+DisplayName : CNG Key Isolation
+State       : RUNNING
+
+ServiceName : Killer Analytics Service
+DisplayName : Killer Analytics Service
+State       : RUNNING
+
+ServiceName : Killer Network Service
+DisplayName : Killer Network Service
+State       : RUNNING
+
+ServiceName : KNDBWM
+DisplayName : Killer Dynamic Bandwidth Management
+State       : STOPPED
+
+ServiceName : KtmRm
+DisplayName : KtmRm for Distributed Transaction Coordinator
+State       : STOPPED
+
+ServiceName : LanmanServer
+DisplayName : Server
+State       : RUNNING
+
+ServiceName : LanmanWorkstation
+DisplayName : Workstation
+State       : RUNNING
+
+ServiceName : lfsvc
+DisplayName : Geolocation Service
+State       : RUNNING
+
+ServiceName : LicenseManager
+DisplayName : Windows License Manager Service
+State       : RUNNING
+
+ServiceName : lltdsvc
+DisplayName : Link-Layer Topology Discovery Mapper
+State       : STOPPED
+
+ServiceName : lmhosts
+DisplayName : TCP/IP NetBIOS Helper
+State       : RUNNING
+
+ServiceName : LMS
+DisplayName : Intel(R) Management and Security Application Local Management Service
+State       : RUNNING
+
+ServiceName : LocalKdc
+DisplayName : Kerberos Local Key Distribution Center
+State       : STOPPED
+
+ServiceName : LSM
+DisplayName : Local Session Manager
+State       : RUNNING
+
+ServiceName : LxpSvc
+DisplayName : Language Experience Service
+State       : STOPPED
+
+ServiceName : MapsBroker
+DisplayName : Downloaded Maps Manager
+State       : STOPPED
+
+ServiceName : McmSvc
+DisplayName : Mobile Connectivity Management Service
+State       : STOPPED
+
+ServiceName : McpManagementService
+DisplayName : McpManagementService
+State       : STOPPED
+
+ServiceName : MDCoreSvc
+DisplayName : Microsoft Defender Core Service
+State       : RUNNING
+
+ServiceName : MicrosoftEdgeElevationService
+DisplayName : Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+State       : STOPPED
+
+ServiceName : midisrv
+DisplayName : Windows MIDI Service
+State       : STOPPED
+
+ServiceName : MongoDB
+DisplayName : MongoDB Server (MongoDB)
+State       : RUNNING
+
+ServiceName : mpssvc
+DisplayName : Windows Defender Firewall
+State       : RUNNING
+
+ServiceName : MSDTC
+DisplayName : Distributed Transaction Coordinator
+State       : STOPPED
+
+ServiceName : MSiSCSI
+DisplayName : Microsoft iSCSI Initiator Service
+State       : STOPPED
+
+ServiceName : msiserver
+DisplayName : Windows Installer
+State       : STOPPED
+
+ServiceName : MSSQL$ROOT
+DisplayName : SQL Server (ROOT)
+State       : RUNNING
+
+ServiceName : MySQL91
+DisplayName : MySQL91
+State       : RUNNING
+
+ServiceName : NaturalAuthentication
+DisplayName : Natural Authentication
+State       : STOPPED
+
+ServiceName : NcaSvc
+DisplayName : Network Connectivity Assistant
+State       : STOPPED
+
+ServiceName : NcbService
+DisplayName : Network Connection Broker
+State       : RUNNING
+
+ServiceName : NcdAutoSetup
+DisplayName : Network Connected Devices Auto-Setup
+State       : STOPPED
+
+ServiceName : Netlogon
+DisplayName : Netlogon
+State       : STOPPED
+
+ServiceName : Netman
+DisplayName : Network Connections
+State       : RUNNING
+
+ServiceName : netprofm
+DisplayName : Network List Service
+State       : RUNNING
+
+ServiceName : NetSetupSvc
+DisplayName : Network Setup Service
+State       : RUNNING
+
+ServiceName : NetTcpPortSharing
+DisplayName : Net.Tcp Port Sharing Service
+State       : STOPPED
+
+ServiceName : NgcCtnrSvc
+DisplayName : Microsoft Passport Container
+State       : STOPPED
+
+ServiceName : NgcSvc
+DisplayName : Microsoft Passport
+State       : STOPPED
+
+ServiceName : NlaSvc
+DisplayName : Network Location Awareness
+State       : STOPPED
+
+ServiceName : nsi
+DisplayName : Network Store Interface Service
+State       : RUNNING
+
+ServiceName : nvagent
+DisplayName : Network Virtualization Service
+State       : RUNNING
+
+ServiceName : NvContainerLocalSystem
+DisplayName : NVIDIA LocalSystem Container
+State       : RUNNING
+
+ServiceName : NVDisplay.ContainerLocalSystem
+DisplayName : NVIDIA Display Container LS
+State       : RUNNING
+
+ServiceName : OneDrive Updater Service
+DisplayName : OneDrive Updater Service
+State       : STOPPED
+
+ServiceName : PcaSvc
+DisplayName : Program Compatibility Assistant Service
+State       : RUNNING
+
+ServiceName : perceptionsimulation
+DisplayName : Windows Perception Simulation Service
+State       : STOPPED
+
+ServiceName : PerfHost
+DisplayName : Performance Counter DLL Host
+State       : STOPPED
+
+ServiceName : PhoneSvc
+DisplayName : Phone Service
+State       : RUNNING
+
+ServiceName : pla
+DisplayName : Performance Logs & Alerts
+State       : STOPPED
+
+ServiceName : PlugPlay
+DisplayName : Plug and Play
+State       : RUNNING
+
+ServiceName : PolicyAgent
+DisplayName : IPsec Policy Agent
+State       : RUNNING
+
+ServiceName : postgresql-x64-16
+DisplayName : postgresql-x64-16 - PostgreSQL Server 16
+State       : RUNNING
+
+ServiceName : Power
+DisplayName : Power
+State       : RUNNING
+
+ServiceName : PrintDeviceConfigurationService
+DisplayName : Print Device Configuration Service
+State       : STOPPED
+
+ServiceName : PrintNotify
+DisplayName : Printer Extensions and Notifications
+State       : STOPPED
+
+ServiceName : PrintScanBrokerService
+DisplayName : PrintScanBrokerService
+State       : STOPPED
+
+ServiceName : ProfSvc
+DisplayName : User Profile Service
+State       : RUNNING
+
+ServiceName : PSSvc
+DisplayName : Predator Service
+State       : RUNNING
+
+ServiceName : PushToInstall
+DisplayName : Windows PushToInstall Service
+State       : STOPPED
+
+ServiceName : QALSvc
+DisplayName : Quick Access Local Service
+State       : STOPPED
+
+ServiceName : QASvc
+DisplayName : Quick Access Service
+State       : RUNNING
+
+ServiceName : QWAVE
+DisplayName : Quality Windows Audio Video Experience
+State       : STOPPED
+
+ServiceName : RasAuto
+DisplayName : Remote Access Auto Connection Manager
+State       : STOPPED
+
+ServiceName : RasMan
+DisplayName : Remote Access Connection Manager
+State       : RUNNING
+
+ServiceName : refsdedupsvc
+DisplayName : ReFS Dedup Service
+State       : STOPPED
+
+ServiceName : RemoteAccess
+DisplayName : Routing and Remote Access
+State       : STOPPED
+
+ServiceName : RemoteRegistry
+DisplayName : Remote Registry
+State       : STOPPED
+
+ServiceName : RetailDemo
+DisplayName : Retail Demo Service
+State       : STOPPED
+
+ServiceName : RmSvc
+DisplayName : Radio Management Service
+State       : RUNNING
+
+ServiceName : RpcEptMapper
+DisplayName : RPC Endpoint Mapper
+State       : RUNNING
+
+ServiceName : RpcLocator
+DisplayName : Remote Procedure Call (RPC) Locator
+State       : STOPPED
+
+ServiceName : RpcSs
+DisplayName : Remote Procedure Call (RPC)
+State       : RUNNING
+
+ServiceName : RstMwService
+DisplayName : Intel(R) Storage Middleware Service
+State       : RUNNING
+
+ServiceName : RtkAudioUniversalService
+DisplayName : Realtek Audio Universal Service
+State       : RUNNING
+
+ServiceName : SamSs
+DisplayName : Security Accounts Manager
+State       : RUNNING
+
+ServiceName : SCardSvr
+DisplayName : Smart Card
+State       : STOPPED
+
+ServiceName : ScDeviceEnum
+DisplayName : Smart Card Device Enumeration Service
+State       : STOPPED
+
+ServiceName : Schedule
+DisplayName : Task Scheduler
+State       : RUNNING
+
+ServiceName : SCPolicySvc
+DisplayName : Smart Card Removal Policy
+State       : STOPPED
+
+ServiceName : SDRSVC
+DisplayName : Windows Backup
+State       : STOPPED
+
+ServiceName : seclogon
+DisplayName : Secondary Logon
+State       : STOPPED
+
+ServiceName : SecurityHealthService
+DisplayName : Windows Security Service
+State       : RUNNING
+
+ServiceName : SEMgrSvc
+DisplayName : Payments and NFC/SE Manager
+State       : STOPPED
+
+ServiceName : SENS
+DisplayName : System Event Notification Service
+State       : RUNNING
+
+ServiceName : SensorDataService
+DisplayName : Sensor Data Service
+State       : STOPPED
+
+ServiceName : SensorService
+DisplayName : Sensor Service
+State       : STOPPED
+
+ServiceName : SensrSvc
+DisplayName : Sensor Monitoring Service
+State       : STOPPED
+
+ServiceName : SessionEnv
+DisplayName : Remote Desktop Configuration
+State       : STOPPED
+
+ServiceName : SharedAccess
+DisplayName : Internet Connection Sharing (ICS)
+State       : RUNNING
+
+ServiceName : ShellHWDetection
+DisplayName : Shell Hardware Detection
+State       : RUNNING
+
+ServiceName : shpamsvc
+DisplayName : Shared PC Account Manager
+State       : STOPPED
+
+ServiceName : smphost
+DisplayName : Microsoft Storage Spaces SMP
+State       : STOPPED
+
+ServiceName : SmsRouter
+DisplayName : Microsoft Windows SMS Router Service.
+State       : STOPPED
+
+ServiceName : SNMPTrap
+DisplayName : SNMP Trap
+State       : STOPPED
+
+ServiceName : Spooler
+DisplayName : Print Spooler
+State       : RUNNING
+
+ServiceName : sppsvc
+DisplayName : Software Protection
+State       : STOPPED
+
+ServiceName : SQLAgent$ROOT
+DisplayName : SQL Server Agent (ROOT)
+State       : STOPPED
+
+ServiceName : SQLTELEMETRY$ROOT
+DisplayName : SQL Server CEIP service (ROOT)
+State       : RUNNING
+
+ServiceName : SQLWriter
+DisplayName : SQL Server VSS Writer
+State       : RUNNING
+
+ServiceName : SSDPSRV
+DisplayName : SSDP Discovery
+State       : RUNNING
+
+ServiceName : ssh-agent
+DisplayName : OpenSSH Authentication Agent
+State       : STOPPED
+
+ServiceName : SstpSvc
+DisplayName : Secure Socket Tunneling Protocol Service
+State       : RUNNING
+
+ServiceName : StateRepository
+DisplayName : State Repository Service
+State       : RUNNING
+
+ServiceName : StiSvc
+DisplayName : Windows Image Acquisition (WIA)
+State       : RUNNING
+
+ServiceName : StorSvc
+DisplayName : Storage Service
+State       : RUNNING
+
+ServiceName : svsvc
+DisplayName : Spot Verifier
+State       : STOPPED
+
+ServiceName : swprv
+DisplayName : Microsoft Software Shadow Copy Provider
+State       : STOPPED
+
+ServiceName : SysMain
+DisplayName : SysMain
+State       : RUNNING
+
+ServiceName : SystemEventsBroker
+DisplayName : System Events Broker
+State       : RUNNING
+
+ServiceName : TapiSrv
+DisplayName : Telephony
+State       : STOPPED
+
+ServiceName : TbtP2pShortcutService
+DisplayName : Thunderbolt(TM) Peer to Peer Shortcut
+State       : RUNNING
+
+ServiceName : TeamViewer
+DisplayName : TeamViewer
+State       : RUNNING
+
+ServiceName : TermService
+DisplayName : Remote Desktop Services
+State       : STOPPED
+
+ServiceName : TextInputManagementService
+DisplayName : Text Input Management Service
+State       : RUNNING
+
+ServiceName : Themes
+DisplayName : Themes
+State       : RUNNING
+
+ServiceName : TieringEngineService
+DisplayName : Storage Tiers Management
+State       : STOPPED
+
+ServiceName : TimeBrokerSvc
+DisplayName : Time Broker
+State       : RUNNING
+
+ServiceName : TokenBroker
+DisplayName : Web Account Manager
+State       : RUNNING
+
+ServiceName : TrkWks
+DisplayName : Distributed Link Tracking Client
+State       : RUNNING
+
+ServiceName : TroubleshootingSvc
+DisplayName : Recommended Troubleshooting Service
+State       : STOPPED
+
+ServiceName : TrustedInstaller
+DisplayName : Windows Modules Installer
+State       : STOPPED
+
+ServiceName : tzautoupdate
+DisplayName : Auto Time Zone Updater
+State       : STOPPED
+
+ServiceName : UEIPSvc
+DisplayName : User Experience Improvement Program
+State       : RUNNING
+
+ServiceName : UltraViewService
+DisplayName : UltraViewer Service
+State       : RUNNING
+
+ServiceName : UmRdpService
+DisplayName : Remote Desktop Services UserMode Port Redirector
+State       : STOPPED
+
+ServiceName : upnphost
+DisplayName : UPnP Device Host
+State       : STOPPED
+
+ServiceName : UserManager
+DisplayName : User Manager
+State       : RUNNING
+
+ServiceName : UsoSvc
+DisplayName : Update Orchestrator Service
+State       : RUNNING
+
+ServiceName : VaultSvc
+DisplayName : Credential Manager
+State       : RUNNING
+
+ServiceName : vds
+DisplayName : Virtual Disk
+State       : STOPPED
+
+ServiceName : VMAuthdService
+DisplayName : VMware Authorization Service
+State       : RUNNING
+
+ServiceName : vmcompute
+DisplayName : Hyper-V Host Compute Service
+State       : STOPPED
+
+ServiceName : vmicguestinterface
+DisplayName : Hyper-V Guest Service Interface
+State       : STOPPED
+
+ServiceName : vmicheartbeat
+DisplayName : Hyper-V Heartbeat Service
+State       : STOPPED
+
+ServiceName : vmickvpexchange
+DisplayName : Hyper-V Data Exchange Service
+State       : STOPPED
+
+ServiceName : vmicrdv
+DisplayName : Hyper-V Remote Desktop Virtualization Service
+State       : STOPPED
+
+ServiceName : vmicshutdown
+DisplayName : Hyper-V Guest Shutdown Service
+State       : STOPPED
+
+ServiceName : vmictimesync
+DisplayName : Hyper-V Time Synchronization Service
+State       : STOPPED
+
+ServiceName : vmicvmsession
+DisplayName : Hyper-V PowerShell Direct Service
+State       : STOPPED
+
+ServiceName : vmicvss
+DisplayName : Hyper-V Volume Shadow Copy Requestor
+State       : STOPPED
+
+ServiceName : VMnetDHCP
+DisplayName : VMware DHCP Service
+State       : RUNNING
+
+ServiceName : VMUSBArbService
+DisplayName : VMware USB Arbitration Service
+State       : RUNNING
+
+ServiceName : VMware NAT Service
+DisplayName : VMware NAT Service
+State       : RUNNING
+
+ServiceName : VSInstallerElevationService
+DisplayName : Visual Studio Installer Elevation Service
+State       : STOPPED
+
+ServiceName : VSS
+DisplayName : Volume Shadow Copy
+State       : STOPPED
+
+ServiceName : VSStandardCollectorService150
+DisplayName : Visual Studio Standard Collector Service 150
+State       : RUNNING
+
+ServiceName : W32Time
+DisplayName : Windows Time
+State       : STOPPED
+
+ServiceName : WaaSMedicSvc
+DisplayName : WaaSMedicSvc
+State       : STOPPED
+
+ServiceName : WalletService
+DisplayName : WalletService
+State       : STOPPED
+
+ServiceName : WarpJITSvc
+DisplayName : Warp JIT Service
+State       : STOPPED
+
+ServiceName : wbengine
+DisplayName : Block Level Backup Engine Service
+State       : STOPPED
+
+ServiceName : WbioSrvc
+DisplayName : Windows Biometric Service
+State       : STOPPED
+
+ServiceName : Wcmsvc
+DisplayName : Windows Connection Manager
+State       : RUNNING
+
+ServiceName : wcncsvc
+DisplayName : Windows Connect Now - Config Registrar
+State       : STOPPED
+
+ServiceName : WdiServiceHost
+DisplayName : Diagnostic Service Host
+State       : RUNNING
+
+ServiceName : WdiSystemHost
+DisplayName : Diagnostic System Host
+State       : RUNNING
+
+ServiceName : WdNisSvc
+DisplayName : Microsoft Defender Antivirus Network Inspection Service
+State       : RUNNING
+
+ServiceName : WebClient
+DisplayName : WebClient
+State       : STOPPED
+
+ServiceName : webthreatdefsvc
+DisplayName : Web Threat Defense Service
+State       : RUNNING
+
+ServiceName : Wecsvc
+DisplayName : Windows Event Collector
+State       : STOPPED
+
+ServiceName : WEPHOSTSVC
+DisplayName : Windows Encryption Provider Host Service
+State       : STOPPED
+
+ServiceName : wercplsupport
+DisplayName : Problem Reports Control Panel Support
+State       : STOPPED
+
+ServiceName : WerSvc
+DisplayName : Windows Error Reporting Service
+State       : STOPPED
+
+ServiceName : WFDSConMgrSvc
+DisplayName : Wi-Fi Direct Services Connection Manager Service
+State       : STOPPED
+
+ServiceName : whesvc
+DisplayName : Windows Health and Optimized Experiences
+State       : RUNNING
+
+ServiceName : WiaRpc
+DisplayName : Still Image Acquisition Events
+State       : STOPPED
+
+ServiceName : WinDefend
+DisplayName : Microsoft Defender Antivirus Service
+State       : RUNNING
+
+ServiceName : WinHttpAutoProxySvc
+DisplayName : WinHTTP Web Proxy Auto-Discovery Service
+State       : RUNNING
+
+ServiceName : Winmgmt
+DisplayName : Windows Management Instrumentation
+State       : RUNNING
+
+ServiceName : WinRM
+DisplayName : Windows Remote Management (WS-Management)
+State       : STOPPED
+
+ServiceName : wisvc
+DisplayName : Windows Insider Service
+State       : STOPPED
+
+ServiceName : WlanSvc
+DisplayName : WLAN AutoConfig
+State       : RUNNING
+
+ServiceName : wlidsvc
+DisplayName : Microsoft Account Sign-in Assistant
+State       : RUNNING
+
+ServiceName : wlpasvc
+DisplayName : Local Profile Assistant Service
+State       : STOPPED
+
+ServiceName : WManSvc
+DisplayName : Windows Management Service
+State       : STOPPED
+
+ServiceName : wmiApSrv
+DisplayName : WMI Performance Adapter
+State       : STOPPED
+
+ServiceName : WMPNetworkSvc
+DisplayName : Windows Media Player Network Sharing Service
+State       : STOPPED
+
+ServiceName : workfolderssvc
+DisplayName : Work Folders
+State       : STOPPED
+
+ServiceName : WpcMonSvc
+DisplayName : Parental Controls
+State       : STOPPED
+
+ServiceName : WPDBusEnum
+DisplayName : Portable Device Enumerator Service
+State       : STOPPED
+
+ServiceName : WpnService
+DisplayName : Windows Push Notifications System Service
+State       : RUNNING
+
+ServiceName : WSAIFabricSvc
+DisplayName : WSAIFabricSvc
+State       : RUNNING
+
+ServiceName : wscsvc
+DisplayName : Security Center
+State       : RUNNING
+
+ServiceName : WSearch
+DisplayName : Windows Search
+State       : RUNNING
+
+ServiceName : WslInstaller
+DisplayName : Windows Subsystem for Linux
+State       : STOPPED
+
+ServiceName : WSLService
+DisplayName : WSL Service
+State       : RUNNING
+
+ServiceName : wuauserv
+DisplayName : Windows Update
+State       : STOPPED
+
+ServiceName : wuqisvc
+DisplayName : Microsoft Usage and Quality Insights
+State       : STOPPED
+
+ServiceName : WwanSvc
+DisplayName : WWAN AutoConfig
+State       : STOPPED
+
+ServiceName : XblAuthManager
+DisplayName : Xbox Live Auth Manager
+State       : RUNNING
+
+ServiceName : XblGameSave
+DisplayName : Xbox Live Game Save
+State       : STOPPED
+
+ServiceName : XboxGipSvc
+DisplayName : Xbox Accessory Management Service
+State       : STOPPED
+
+ServiceName : XboxNetApiSvc
+DisplayName : Xbox Live Networking Service
+State       : STOPPED
+
+ServiceName : xTendSoftAPService
+DisplayName : xTendSoftAPService
+State       : STOPPED
+
+ServiceName : xTendUtilityService
+DisplayName : xTendUtilityService
+State       : RUNNING
+
+ServiceName : AarSvc_8d0673
+DisplayName : Agent Activation Runtime_8d0673
+State       : STOPPED
+
+ServiceName : BcastDVRUserService_8d0673
+DisplayName : GameDVR and Broadcast User Service_8d0673
+State       : STOPPED
+
+ServiceName : BluetoothUserService_8d0673
+DisplayName : Bluetooth User Support Service_8d0673
+State       : STOPPED
+
+ServiceName : CaptureService_8d0673
+DisplayName : CaptureService_8d0673
+State       : RUNNING
+
+ServiceName : cbdhsvc_8d0673
+DisplayName : Clipboard User Service_8d0673
+State       : RUNNING
+
+ServiceName : CDPUserSvc_8d0673
+DisplayName : Connected Devices Platform User Service_8d0673
+State       : RUNNING
+
+ServiceName : CloudBackupRestoreSvc_8d0673
+DisplayName : Cloud Backup and Restore Service_8d0673
+State       : STOPPED
+
+ServiceName : ConsentUxUserSvc_8d0673
+DisplayName : ConsentUX User Service_8d0673
+State       : STOPPED
+
+ServiceName : CredentialEnrollmentManagerUserSvc_8d0673
+DisplayName : CredentialEnrollmentManagerUserSvc_8d0673
+State       : STOPPED
+
+ServiceName : DeviceAssociationBrokerSvc_8d0673
+DisplayName : DeviceAssociationBroker_8d0673
+State       : STOPPED
+
+ServiceName : DevicePickerUserSvc_8d0673
+DisplayName : DevicePicker_8d0673
+State       : STOPPED
+
+ServiceName : DevicesFlowUserSvc_8d0673
+DisplayName : DevicesFlow_8d0673
+State       : RUNNING
+
+ServiceName : MessagingService_8d0673
+DisplayName : MessagingService_8d0673
+State       : STOPPED
+
+ServiceName : NPSMSvc_8d0673
+DisplayName : Now Playing Session Manager Service_8d0673
+State       : RUNNING
+
+ServiceName : OneSyncSvc_8d0673
+DisplayName : Sync Host_8d0673
+State       : RUNNING
+
+ServiceName : P9RdrService_8d0673
+DisplayName : P9RdrService_8d0673
+State       : STOPPED
+
+ServiceName : PenService_8d0673
+DisplayName : PenService_8d0673
+State       : STOPPED
+
+ServiceName : PimIndexMaintenanceSvc_8d0673
+DisplayName : Contact Data_8d0673
+State       : RUNNING
+
+ServiceName : PrintWorkflowUserSvc_8d0673
+DisplayName : PrintWorkflow_8d0673
+State       : STOPPED
+
+ServiceName : UdkUserSvc_8d0673
+DisplayName : Udk User Service_8d0673
+State       : RUNNING
+
+ServiceName : UnistoreSvc_8d0673
+DisplayName : User Data Storage_8d0673
+State       : RUNNING
+
+ServiceName : UserDataSvc_8d0673
+DisplayName : User Data Access_8d0673
+State       : RUNNING
+
+ServiceName : webthreatdefusersvc_8d0673
+DisplayName : Web Threat Defense User Service_8d0673
+State       : RUNNING
+
+ServiceName : WpnUserService_8d0673
+DisplayName : Windows Push Notifications User Service_8d0673
+State       : RUNNING
+
